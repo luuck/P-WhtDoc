@@ -1,0 +1,10 @@
+{
+    "title": "whtdoc",
+    "author": "luuck",
+    "plugins": ["demo"],
+    "pluginsConfig": {
+        "demo": {
+            "id": 1
+        }
+    }
+}

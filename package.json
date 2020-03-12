@@ -1,0 +1,11 @@
+{
+    "author": "https://ydoc.ymfe.org/documents/index.html",
+    "scripts": {
+        "dev": "ydoc serve",
+        "start": "ydoc serve",
+        "build": "ydoc build"
+    },
+    "devDependencies": {
+        "ydoc-plugin-demo": "^1.0.0"
+    }
+}
